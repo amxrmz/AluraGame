@@ -441,8 +441,7 @@ footer .footer-icon {
         footerContent.className = 'footer-content';
         // Puedes cambiar el ícono SVG o el texto aquí
         footerContent.innerHTML = `
-          <svg class="footer-icon" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><circle cx="12" cy="12" r="10" stroke="var(--color-acento)" stroke-width="2"/><path d="M8 12l2 2 4-4" stroke="var(--color-acento)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
-          <span>Hecho con <span style="color:var(--color-rosa);font-weight:bold;">♥</span> por Amir Flores &copy; 2025</span>
+          <svg class="footer-icon" viewBox="0 0 24 24" fill="none" <span>Codigo realizado por: <span style="color:var(--color-rosa);font-weight:bold;">Amir Flores</span>
         `;
         footer.appendChild(footerContent);
         document.body.appendChild(footer);
