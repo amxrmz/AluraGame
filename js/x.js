@@ -36,14 +36,14 @@
 
     // Inserta el CSS dinámicamente
     const style = document.createElement('style');
-    style.textContent = `
+    style.textContent = ` /*
    --color-bg: #000000;         
    --color-bg2: #2c5364;        
    --color-acento: #00fff7;     
    --color-azul: #1875E8;       
    --color-rosa: #ff4fa3;       
    --color-naranja: #ffb347;    
-   --color-beige: #f5f5dc;      
+   --color-beige: #f5f5dc; */
 :root {
   --color-bg: #000000;
   --color-bg2: #2c5364;
