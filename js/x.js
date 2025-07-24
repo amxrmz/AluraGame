@@ -37,16 +37,13 @@
     // Inserta el CSS dinámicamente
     const style = document.createElement('style');
     style.textContent = `
-/* === COLORES PRINCIPALES ===
-   Puedes cambiar los tonos principales aquí:
-   --color-bg: #000000;         (fondo principal)
-   --color-bg2: #2c5364;        (degradado fondo)
-   --color-acento: #00fff7;     (acento, botones, detalles)
-   --color-azul: #1875E8;       (bordes, sombras)
-   --color-rosa: #ff4fa3;       (puedes usarlo para detalles extra)
-   --color-naranja: #ffb347;    (puedes usarlo para detalles extra)
-   --color-beige: #f5f5dc;      (puedes usarlo para detalles extra)
-*/
+   --color-bg: #000000;         
+   --color-bg2: #2c5364;        
+   --color-acento: #00fff7;     
+   --color-azul: #1875E8;       
+   --color-rosa: #ff4fa3;       
+   --color-naranja: #ffb347;    
+   --color-beige: #f5f5dc;      
 :root {
   --color-bg: #000000;
   --color-bg2: #2c5364;
