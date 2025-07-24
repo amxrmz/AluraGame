@@ -13,9 +13,5 @@
 - `js/x.js`: Lógica y renderizado del juego.
 - `img/`: Imágenes usadas (robot, trofeo, fondo, etc).
 
-## Publicación
-Este proyecto está listo para ser publicado en GitHub Pages.
-
-
 ---
-Hecho con ♥ por Amir Flores
+Hecho por Amir Flores
