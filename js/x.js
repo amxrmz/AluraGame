@@ -1,7 +1,7 @@
 
 
 
-// Renderiza toda la estructura HTML y la lógica del juego desde JS, con trofeo solo al ganar
+// Renderizado
 (function () {
     // Limpia el documento
     document.documentElement.lang = 'en';
